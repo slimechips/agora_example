@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Example</string>
+    <string name="action_settings">Settings</string>
+    <!-- Strings used for fragments for navigation -->
+    <string name="first_fragment_label">First Fragment</string>
+    <string name="second_fragment_label">Second Fragment</string>
+    <string name="next">Next</string>
+    <string name="previous">Previous</string>
+
+    <string name="hello_first_fragment">Hello first fragment</string>
+    <string name="hello_second_fragment">Hello second fragment. Arg: %1$s</string>
+    <string name="agora_app_id">fc81adf216e943f8bf4023caaf40f807</string>\
+    <string name="agora_access_token">006fc81adf216e943f8bf4023caaf40f807IACeF9ZLgNUd7jquDb7RwjzT9NjfA0ydkW3GBBQ49OQ/NzPG3l8AAAAAEAB5qBsXj3E+XwEAAQCOcT5f</string>
+    <string name="channel_name">jeanchannel</string>
+</resources>
